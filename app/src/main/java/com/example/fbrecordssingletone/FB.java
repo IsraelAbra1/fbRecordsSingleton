@@ -25,6 +25,7 @@ public class FB {
     private FB() {
         //database = FirebaseDatabase.getInstance("https://fbrecordssingletone-default-rtdb.firebaseio.com/");
         database = FirebaseDatabase.getInstance();
+        // Test
 
         //this.records = MainActivity.records;
 
